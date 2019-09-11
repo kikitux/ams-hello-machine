@@ -3,7 +3,7 @@ the amazing description
 
 
 ## TODO
-- [ ] write hello.sh
 - [ ] write test.sh
 
 ## DONE
+- [x] write hello.sh
