@@ -3,6 +3,8 @@ the amazing description
 
 
 ## TODO
+- [ ] write bye.sh
+- [ ] write test.sh
 - [ ] add travis for CD
 
 ## DONE
