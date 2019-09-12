@@ -3,4 +3,5 @@ dist: xenial
 sudo: required
 
 script:
-- bash test.sh
+- bash test_hello.sh
+- bash test_bye.sh
